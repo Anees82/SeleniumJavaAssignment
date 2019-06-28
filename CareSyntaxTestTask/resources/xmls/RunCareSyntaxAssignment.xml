@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="CareSyntax Assignment">
+
+	
+	<test name="Selenium Scenario">
+		<classes>
+			<class name="testcases.EBayTests"></class>
+		</classes>
+	</test>
+	
+	
+</suite>

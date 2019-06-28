@@ -1,0 +1,4 @@
+Requirements
+JRE 1.8
+Gradle 2.2.1
+TestNG 6.14
